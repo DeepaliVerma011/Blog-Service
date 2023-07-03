@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.iiht.training.blogs.functional.BlogControllerTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.603 s - in com.iiht.training.blogs.functional.BlogControllerTest
